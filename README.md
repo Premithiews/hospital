@@ -2,6 +2,9 @@
 
 # HospitalRecords Smart Contract 
 
+![Screenshot 2024-08-28 092814](https://github.com/user-attachments/assets/07e86a54-20da-4e23-af95-8ff3e06b6ce1)
+
+
 ## Vision
 
 The **HospitalRecords** smart contract aims to modernize and secure the management of healthcare records. By leveraging blockchain technology, the system ensures that sensitive patient and doctor information is stored securely, transparently, and immutably. This contract allows for decentralized access to medical records, enabling better coordination among healthcare providers while maintaining the privacy and integrity of patient data.
@@ -34,7 +37,10 @@ The **HospitalRecords** smart contract aims to modernize and secure the manageme
 ## Contract Address
 
 *Deployed on Ethereum Network:*  
-`<Your Contract Address Here>`  
+`0x2d2dca0b3fa01c1a22070e177fcdd7373dbffdc0f56234ba5c10b7bfc6659041`  
+![Screenshot (212)](https://github.com/user-attachments/assets/0cd905f9-9acc-4ebe-96c1-1a9cf3965dcd)
+
+
 *Network:* `<Network Name Here>` (e.g., Rinkeby, Mainnet, etc.)
 
 ## Features
